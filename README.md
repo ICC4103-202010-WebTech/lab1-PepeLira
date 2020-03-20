@@ -3,7 +3,7 @@
 
 by: José Lira
 
-###### 1. How is the list of news articles structured with HTML?
+#### 1. How is the list of news articles structured with HTML?
 
 After initiate the HTML file with a tag <html>, in one large body that contains
 a big borderless Table how contains the content of the page.
@@ -20,7 +20,7 @@ Comments: each table is borderless, and also contains some empty rows to use as 
 
 
 
-###### 2. How are these files different? What is their purpose?
+#### 2. How are these files different? What is their purpose?
 
 The .js are java script files how contains functionality to the page.
 
@@ -31,8 +31,8 @@ The .css are pages of style, that contains things like the typographic, the size
 Another difference is that both of them uses different programing languages.
 
 
-###### 3. How many requests has it taken for the browser to download the Hacker News main page?
-###### What are the HTTP request methods in each case?
+#### 3. How many requests has it taken for the browser to download the Hacker News main page?
+#### What are the HTTP request methods in each case?
 *Check out the HTTP response headers and find out what kind of web server is used for this website.*
 
 In my browser has taked 8 request each with a Get method.
