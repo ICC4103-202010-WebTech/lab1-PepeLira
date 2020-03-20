@@ -50,4 +50,4 @@ In my browser has taked 8 request each with a Get method.
 Searching in the HTTP response headers shows that the server is called Nginx.
 Affter googled it seens that is a web server / reverse proxy.
 
-> A reverse proxy, by contrast, appears to the client just like an ordinary web server. No special configuration on the client is necessary. The client makes ordinary requests for content in > > the name-space of the reverse proxy. The reverse proxy then decides where to send those requests, and returns the content as if it was itself the origin.
+> A reverse proxy, by contrast, appears to the client just like an ordinary web server. No special configuration on the client is necessary. The client makes ordinary requests for content in > > the name-space of the reverse proxy. The reverse proxy then decides where to send those requests, and returns the content as if it was itself the origin. [Source](http://httpd.apache.org/docs/2.0/mod/mod_proxy.html#forwardreverse)
